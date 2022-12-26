@@ -1,5 +1,21 @@
+*.idea
+cmake-build-debug-builds
+debug
+*.db-wal
+*.db-shm
+*.opendb
+*.db
+*.ipch
+*.user
+*.filters
+*.vcxproj
+*.suo
+*.json
+*.sln
+*.sqlite
 # Prerequisites
 *.d
+
 
 # Compiled Object files
 *.slo
@@ -30,3 +46,7 @@
 *.exe
 *.out
 *.app
+
+
+*.lock
+*.vsidx
